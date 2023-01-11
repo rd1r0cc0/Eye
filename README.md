@@ -1,7 +1,7 @@
 # Eye Movement Exercise from Module 8
 ## <a href="https://github.com/rd1r0cc0/Eye">GitHub Repo for Eye Movement Exercise</a>
 
-<img src="eye.jpg">
+<img src="./images/eye.jpg">
 
 ## Convert One Eye to Two Eyes Following Mouse Movement
 
